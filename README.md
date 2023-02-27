@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ajna0501
-- 👀 I’m interested in Web Development and Data Structure
-- 🌱 I’m currently learning Javascript and Python
+- 👀 I’m interested in Web Development and Data Science
+- 🌱 I’m good in Python, R and SQL
+- 🌱 I am very much interested in Machine learning
 - 💞️ I’m looking to collaborate on any project that would help me improve and get experiance
 
 
